@@ -8,4 +8,4 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 The files contain one message per line. Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text.
 
 atteched a correct  path according your spam.csv file  and  open a powershell and  change directery enter  cd  <a href=" c:/Users/hp/Desktop/email-spam/Email_Spam_classifier"> c:/Users/hp/Desktop/email-spam/Email_Spam_classifier </a> 
- run python file  " Email_Spam.py "
+ run python file  " Email_Spam.py " 
