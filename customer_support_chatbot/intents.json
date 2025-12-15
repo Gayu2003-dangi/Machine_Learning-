@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello! How can I help you today?", "Hi! What can I do for you?"]
+    },
+    {
+      "tag": "hours",
+      "patterns": ["What are your working hours?", "When are you open?"],
+      "responses": ["We are open from 9 AM to 6 PM, Monday to Friday."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["How can I contact support?", "Customer care number"],
+      "responses": ["You can contact us at support@example.com"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye"],
+      "responses": ["Thank you for contacting us. Have a great day!"]
+    }
+  ]
+}
+
